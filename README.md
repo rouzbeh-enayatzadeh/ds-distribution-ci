@@ -1,3 +1,4 @@
+[![Shipping files](https://github.com/neuefische/ds-distribution-ci/actions/workflows/workflow-02.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-distribution-ci/actions/workflows/workflow-02.yml)
 # 📊 Distribution and Confidence Intervals
 
 In this repo we will dive deep into statistical concepts and advanced analytics techniques. You’ll explore distribution functions, and confidence intervals
