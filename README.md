@@ -20,7 +20,7 @@ In the folder [2_confidence_intervals](./2_confidence_intervals/) you will find 
 
 ---
 
-## 📚 Recommended Resources**
+## 📚 Recommended Resources
 
 To further your learning, explore these resources and examples for each topic:  
 - 📖 [Statistical Distributions – Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution)  
