@@ -1,5 +1,0 @@
-seaborn
-scipy
-jupyterlab
-scikit-learn
-statsmodels
