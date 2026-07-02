@@ -21,9 +21,9 @@ Identify the right distribution for your data and describe it with summary stati
 
 | File | Description |
 |---|---|
-| [**Continuous Distributions Guide**](1_distribution/1_continous_df_guide.ipynb) | Analyse continuous data step by step: identify the data type, frame the question, compute descriptive statistics, and interpret the histogram. |
-| [**Discrete Distributions Guide**](1_distribution/2_discrete_df_guide.ipynb) | Apply the same analysis loop to discrete count data, with complaints and quality-control case studies. |
-| [**Distribution Functions Exercise**](1_distribution/Distribution_Functions_Exercise.ipynb) | Practice fitting the normal and Poisson distributions to exam-score, height, and call-volume data. |
+| [**1 - Continuous Distributions Guide**](1_distribution/1_continuous_df_guide.ipynb) | Analyse continuous data step by step: identify the data type, frame the question, compute descriptive statistics, and interpret the histogram. |
+| [**2 - Discrete Distributions Guide**](1_distribution/2_discrete_df_guide.ipynb) | Apply the same analysis loop to discrete count data, with complaints and quality-control case studies. |
+| [**3 - Distribution Functions Exercise**](1_distribution/3_distribution_functions_exercise.ipynb) | Practice fitting the normal and Poisson distributions to exam-score, height, and call-volume data. |
 
 ### 2 - Confidence Intervals
 
@@ -31,9 +31,10 @@ Estimate a population parameter from a sample and express the uncertainty around
 
 | File | Description |
 |---|---|
-| [**Confidence Intervals Guide**](2_confidence_intervals/ci_guide.ipynb) | Populations versus samples, the meaning of a 95% interval, and calculating a confidence interval with both the z/t formula and bootstrapping. |
-| [**Confidence Intervals Exercise**](2_confidence_intervals/ci_exercise.ipynb) | Interpret and calculate confidence intervals across five case studies, including the Iris dataset. |
-| [**Extra Material**](2_confidence_intervals/extra_material/) | Optional deeper examples: bootstrap intervals on NYC taxi trip durations and penguin measurements, plus population parameters versus sample statistics. |
+| [**1 - Population Parameters vs Sample Statistics**](2_confidence_intervals/1_parameter_sample.ipynb) | Recommended pre-reading: the sampling distribution, the standard error, and the central limit theorem that confidence intervals are built on. |
+| [**2 - Confidence Intervals Guide**](2_confidence_intervals/2_ci_guide.ipynb) | Populations versus samples, the meaning of a 95% interval, and calculating a confidence interval with both the z/t formula and bootstrapping. |
+| [**3 - Confidence Intervals Exercise**](2_confidence_intervals/3_ci_exercise.ipynb) | Interpret and calculate confidence intervals across five case studies, including the Iris dataset. |
+| [**Extra Material**](2_confidence_intervals/extra_material/) | Optional deep-dive: bootstrap and formula intervals on NYC taxi trip durations, with a statsmodels comparison. |
 | [**Data**](2_confidence_intervals/data/) | CSV datasets used in the confidence-interval notebooks. |
 
 ### Additional Folders and Files
