@@ -32,7 +32,7 @@ Estimate a population parameter from a sample and express the uncertainty around
 
 | File | Description |
 |---|---|
-| [**1 - Population Parameters vs Sample Statistics**](2_confidence_intervals/1_parameter_sample.ipynb) | Recommended pre-reading: the sampling distribution, the standard error, and the central limit theorem that confidence intervals are built on. |
+| [**1 - Population Parameters vs Sample Statistics**](2_confidence_intervals/1_population_vs_sample.ipynb) | Recommended pre-reading: the sampling distribution, the standard error, and the central limit theorem that confidence intervals are built on. |
 | [**2 - Confidence Intervals Guide**](2_confidence_intervals/2_ci_guide.ipynb) | Populations versus samples, the meaning of a 95% interval, and calculating a confidence interval with both the z/t formula and bootstrapping. |
 | [**3 - Confidence Intervals Exercise**](2_confidence_intervals/3_ci_exercise.ipynb) | Interpret and calculate confidence intervals across five case studies, including the Iris dataset. |
 | [**Extra Material**](2_confidence_intervals/extra_material/) | Optional deep-dive: bootstrap and formula intervals on NYC taxi trip durations, with a statsmodels comparison. |
