@@ -21,9 +21,10 @@ Identify the right distribution for your data and describe it with summary stati
 
 | File | Description |
 |---|---|
-| [**1 - Continuous Distributions Guide**](1_distribution/1_continuous_df_guide.ipynb) | Analyse continuous data step by step: identify the data type, frame the question, compute descriptive statistics, and interpret the histogram. |
-| [**2 - Discrete Distributions Guide**](1_distribution/2_discrete_df_guide.ipynb) | Apply the same analysis loop to discrete count data, with complaints and quality-control case studies. |
+| [**1 - Continuous Distributions Guide**](1_distribution/1_continuous_distributions_guide.ipynb) | Analyse continuous data step by step: identify the data type, frame the question, compute descriptive statistics, and interpret the histogram. |
+| [**2 - Discrete Distributions Guide**](1_distribution/2_discrete_distributions_guide.ipynb) | Apply the same analysis loop to discrete count data, with complaints and quality-control case studies. |
 | [**3 - Distribution Functions Exercise**](1_distribution/3_distribution_functions_exercise.ipynb) | Practice fitting the normal and Poisson distributions to exam-score, height, and call-volume data. |
+| [**Consideration for Distribution Functions**](1_distribution/consideration_for_distribution_function.md) | Cheat sheet: how to choose a distribution, with each one's formulas and scipy syntax. |
 
 ### 2 - Confidence Intervals
 
@@ -41,7 +42,6 @@ Estimate a population parameter from a sample and express the uncertainty around
 
 | File / Folder | Description |
 |---|---|
-| [**Consideration for Distribution Functions**](consideration_for_distribution_function.md) | Notes on how to choose a distribution function. |
 | [**Solutions**](solutions/) | Reference solutions. |
 | [**pyproject.toml**](pyproject.toml) | Project configuration and dependencies. |
 | [**uv.lock**](uv.lock) | Dependency lock file. |
